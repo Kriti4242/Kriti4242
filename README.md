@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on — full-stack web applications using React & Node.js<br>👯 I'm looking to collaborate on — open source frontend projects or dev tools<br>🤝 I'm looking for help with — backend architecture & system design<br>🌱 I'm currently learning — TypeScript, Next.js, and REST API design<br>💬 Ask me about — React, JavaScript, building UI components from scratch<br>⚡ Fun fact — I've built 27+ projects and I'm just getting started
+🔭 I'm currently working on — full-stack web applications using React & Node.js<br>👯 I'm looking to collaborate on — open source full stack projects or dev tools<br>🤝 I'm looking for help with — backend architecture, system design & deploying production-ready full-stack or AI based application<br>🌱 I'm currently learning — TypeScript, Next.js, and REST API design<br>💬 Ask me about — React, JavaScript, building UI components from scratch, full stack development, API building, turning ideas into real world projects<br>⚡ Fun fact — I've built 27+ projects and I'm just getting started
 
 
 ## 🌐 Socials:
