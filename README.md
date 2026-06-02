@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I'm currently working on — full-stack web applications using React & Node.js<br>👯 I'm looking to collaborate on — open source full stack projects or dev tools<br>🤝 I'm looking for help with — backend architecture, system design & deploying production-ready full-stack or AI based application<br>🌱 I'm currently learning — TypeScript, Next.js, and REST API design<br>💬 Ask me about — React, JavaScript, building UI components from scratch, full stack development, API building, turning ideas into real world projects<br>⚡ Fun fact — I've built 27+ projects and I'm just getting started
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kriti.4224?igsh=MzBqaG12cGNlNjA4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kriti-verma-318437249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kritiverma2424@gmail.com) 
 
@@ -11,6 +10,9 @@
 ![](https://github-readme-stats.shion.dev/api?username=Kriti4242&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Kriti4242&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kriti4242&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Kriti4242&icon=7&color=6)](https://visitcount.itsvg.in)
