@@ -14,8 +14,17 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kriti4242&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 ---
 [![](https://komarev.com/ghpvc/?username=Kriti4242&icon=7&color=6)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@kriti2424) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@kriti2424) 
